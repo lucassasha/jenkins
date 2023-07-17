@@ -3411,7 +3411,7 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -3682,10 +3682,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hotkeys-js@npm:3.10.2":
-  version: 3.10.2
-  resolution: "hotkeys-js@npm:3.10.2"
-  checksum: c8f75a4113d2b37e7044b068422122308c971e10980ab90fc7b84ebc352307e18aaea5719d39575e15a3599b4c8d1991f35b623548250477f0096b08f34fc1be
+"hotkeys-js@npm:3.10.3":
+  version: 3.10.3
+  resolution: "hotkeys-js@npm:3.10.3"
+  checksum: c88bbb1178e61a0e52129a22ef4083c2f40de6d57041df1b18baa376424726073d122423ee125dfb92fdc5811ef1c0cd5e0bb394fc9f5a012a84653fd17dc76f
   languageName: node
   linkType: hard
 
@@ -4018,7 +4018,7 @@ __metadata:
     eslint-config-prettier: 8.8.0
     handlebars: 4.7.7
     handlebars-loader: 1.7.3
-    hotkeys-js: 3.10.2
+    hotkeys-js: 3.10.3
     jquery: 3.6.4
     less: 4.1.3
     less-loader: 11.1.0
@@ -5697,7 +5697,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
